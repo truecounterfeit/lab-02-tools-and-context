@@ -25,7 +25,7 @@
 * Write two tests for each method in `lib/fp.js`
 
 ## Bonus 1pt 
-* Test your CLI index.js 
+* Create an exception handler node module that accepts an error object and logs based on severity
 
 ## Rubric:
 * Correct Submission: 2pts

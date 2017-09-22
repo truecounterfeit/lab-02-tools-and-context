@@ -14,9 +14,9 @@ As a developer, I would like to easily determine if a property exists within an 
        }
     }
  
- obj.phoneNumbers.home -> true
- obj.address.home -> false
- obj.last -> false
+ - obj.phoneNumbers.home -> true
+ - obj.address.home -> false
+ - obj.last -> false
 
 **Actual Requirements**
 
